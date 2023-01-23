@@ -1,6 +1,6 @@
 ### Hi, I'm Anna ✌️
 
-✔️ Shortly about me 
+##### ✔️ Shortly about me
 I'm from Ukraine, but now located in Germany. 
 I have a Master in Cybersecurity, but found myself more passionate about Web-Development ✨
 My interest in programming was triggered in my [University](https://karazin.ua/en), when I was indroduced to a science called steganography - 

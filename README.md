@@ -8,7 +8,7 @@ the art of hiding secret messages in the images (both raster and vector graphics
 
 🔥 Now I'm learning Web-Development and want to become a Full-Stack Developer! 🔥
 
-🦾 I'm currently working with HTML, CSS, JavaScript.
+🦾 I'm currently working with HTML, CSS, JavaScript, React.
 
 *You can review my repos with steganography topic, and also I have English publications about my research (list of them is [here](https://www.scopus.com/authid/detail.uri?authorId=57208665914))*
 

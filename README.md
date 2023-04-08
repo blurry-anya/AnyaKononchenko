@@ -8,7 +8,7 @@ the art of hiding secret messages in the images (both raster and vector graphics
 #### 🔥 Now I'm learning Web-Development and want to become a Full-Stack Developer! 🔥  
 
 ⚡ love gaming and watching series  
-📖 books are our saviour  
+📖 reading is our saviour  
 🤸‍♀️ physical activity as a way to stay mentally stable  
 
 🦾 I'm currently working with

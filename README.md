@@ -27,7 +27,7 @@ the art of hiding secret messages in the images (both raster and vector graphics
 *You can review my repos with steganography topic, and also I have English publications about my research (list of them is [here](https://www.scopus.com/authid/detail.uri?authorId=57208665914))*
 
 <div align="center">
-  <a href="https://github.com/berkdisli">
+  <a href="https://github.com/AnyaKononchenko">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnyaKononchenko&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnyaKononchenko&layout=compact&langs_count=7&theme=dracula"/>
 </div>  
